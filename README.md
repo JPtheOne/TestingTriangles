@@ -14,7 +14,7 @@ Once installed and being in the directory of the project run to execute the test
 pytest .\Test_Triangle.py
 ```
 
-##Output
+## Output
 In the best case, all the nine tests should be passed without problem.
 ![image](https://user-images.githubusercontent.com/102324051/222635353-fc5af576-f91b-43df-9aa2-9c0e2e7b2f9c.png)
 
